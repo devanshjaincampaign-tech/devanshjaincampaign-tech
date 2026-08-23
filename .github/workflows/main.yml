@@ -15,6 +15,9 @@ jobs:
   build-3d-skyline:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution skyline
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
