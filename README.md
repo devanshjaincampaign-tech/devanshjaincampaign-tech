@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d9e75,100:0f6e56&height=220&section=header&text=Devansh%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%202nd%20Year%20CSE%20%40%20NIT%20Patna&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,50:1d9e75,100:0f6e56&height=220&section=header&text=Devansh%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%202nd%20Year%20CSE%20%40%20NIT%20Patna&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://github.com/devanshjaincampaign-tech">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=Backend+Developer+in+the+making;Shipping+real+APIs%2C+not+just+tutorials;Currently+building+Pulse+Notification+Engine;NIT+Patna+%C2%B7+CSE+%C2%B7+Batch+of+2028" alt="Typing SVG" />
+</a>
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-1d9e75?style=for-the-badge)](https://github.com/devanshjaincampaign-tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-jain-314208375)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devanshjain06/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshcampaign@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devanshjaincampaign-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-jain-314208375)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devanshjain06/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanshcampaign@gmail.com)
 
 </div>
 
@@ -21,81 +25,53 @@
 Name:          Devansh Jain
 Role:          Backend Developer in the making
 Education:     2nd Year B.Tech CSE @ NIT Patna
-Focus:         Node.js · PostgreSQL · System Design · DSA
-Currently:     Building real backend projects, shipping them live,
-               and documenting the entire journey in public.
+Focus:         Node.js · Kafka · Redis · PostgreSQL · System Design · DSA
+Currently:     Building event-driven backend systems and shipping them
+               live, plus building for real users during hackathons.
 Philosophy:    Tutorials teach syntax. Building teaches engineering.
 ```
 
-I'm a second-year Computer Science student who decided that the
-fastest way to actually learn backend engineering was to stop
-watching tutorials and start shipping real, deployed APIs — with
-authentication, databases, role-based access control, and live URLs
-that anyone can hit right now.
-
-This profile is where that journey lives.
-
 <br/>
 
-### 🔧 Tech Stack
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-### 🏗️ Featured Projects
+### 🏗️ Featured Work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### 🔗 [URL Shortener API](https://github.com/devanshjaincampaign-tech/url-shortener-api)
+#### 🏆 [LastMile — Vernacular AI Doubt Solver](https://github.com/devanshjaincampaign-tech/-lastmile-prasunethon)
 
-A production-style URL shortening service with full authentication
-and click analytics.
+Built at **Prasunethon 2.0** national hackathon — a doubt-solving app for households sharing one phone, not one each.
 
-**Stack:** Node.js · Express · PostgreSQL · JWT · Docker
+**Stack:** React (Vite) · Tailwind · Node.js/Express · Google Gemini · Firebase · Netlify + Render
 
-- ✅ JWT auth with access + refresh token rotation
-- ✅ Short code generation with collision handling
-- ✅ Click analytics per link
-- ✅ Rate limiting on shorten & auth endpoints
-- ✅ MVC architecture, fully Dockerized
+- ✅ Photo, voice & text doubt capture — resolved in one batch session
+- ✅ Hinglish-aware explanations, not textbook-formal translations
+- ✅ Classroom Mode for shared devices, no individual logins
+- ✅ 22-language interface, installable PWA
+- ✅ Firestore Security Rules enforced at the database layer
 - ✅ **Live & deployed**
 
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-1d9e75?style=flat-square&logo=github)](https://github.com/devanshjaincampaign-tech/url-shortener-api)
+[![Live](https://img.shields.io/badge/Live_Demo-1d9e75?style=flat-square&logo=vercel&logoColor=white)](https://lastmileprasunethon.netlify.app/)
+[![Video](https://img.shields.io/badge/Demo_Video-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/p2buZ-XuB2s)
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-1d9e75?style=flat-square&logo=github)](https://github.com/devanshjaincampaign-tech/-lastmile-prasunethon)
 
 </td>
 <td width="50%" valign="top">
 
-#### ✅ [Task Manager API](https://github.com/devanshjaincampaign-tech/task-manager-api)
+#### ⚡ [Pulse — Real-Time Notification Engine](https://github.com/devanshjaincampaign-tech/pulse-notification-engine)
 
-A team-based task management system with roles, email
-notifications, and file uploads.
+A production-style, event-driven notification platform — the kind of infra real products run live alerts and activity feeds on.
 
-**Stack:** Node.js · Express · PostgreSQL · Nodemailer · Multer
+**Stack:** Node.js · Apache Kafka · Redis · WebSockets · PostgreSQL
 
-- ✅ Many-to-many team membership (junction tables)
-- ✅ Role-based access control — admin / manager / member
-- ✅ Automated email notifications on task assignment
-- ✅ File attachments with validation
-- ✅ Cursor-based pagination, DB transactions
-- ✅ **Live & deployed**
+- 🔄 Event-driven architecture with Kafka streaming
+- 🔄 Asynchronous processing built for scalability
+- 🔄 Real-time delivery via WebSockets
+- 🔄 Designed with fault tolerance from the ground up
+- 🚧 **Actively in development**
 
-[![Repo](https://img.shields.io/badge/Repo-View%20Code-1d9e75?style=flat-square&logo=github)](https://github.com/devanshjaincampaign-tech/task-manager-api)
+[![Repo](https://img.shields.io/badge/Repo-View%20Code-1d9e75?style=flat-square&logo=github)](https://github.com/devanshjaincampaign-tech/pulse-notification-engine)
 
 </td>
 </tr>
@@ -103,12 +79,21 @@ notifications, and file uploads.
 
 <br/>
 
+### 🎖️ Achievements
+
+**Cybersecurity Analyst Job Simulation** — Tata Group, via Forage
+📅 Issued June 2026 · 🆔 Credential `4ZNFxWp96GKspQgMh`
+
+Hands-on virtual simulation of enterprise security work — analyzing infrastructure for vulnerabilities, running risk assessments with mitigation plans, and preparing executive-ready technical briefings on security risk and compliance.
+
+<br/>
+
 ### 🚀 Currently Building
 
 ```
-🔄 Project 3 — leveling up backend architecture even further
-📚 Strengthening DSA — Graphs, Dynamic Programming, Backtracking
-✍️ Writing technical blog posts about what I build and break
+🔄 Pulse — event-driven notification engine (Kafka, Redis, WebSockets)
+📚 Strengthening system design — distributed systems, message queues
+✍️ Writing technical breakdowns of what I build and break
 ```
 
 <br/>
@@ -130,6 +115,20 @@ notifications, and file uploads.
 
 <br/>
 
+### 🏙️ 3D Contribution Skyline
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devanshjaincampaign-tech/devanshjaincampaign-tech/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<br/>
+<img src="https://raw.githubusercontent.com/devanshjaincampaign-tech/devanshjaincampaign-tech/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+> ⚠️ This is a live, animated **3D isometric skyline** of your contributions — but it needs a one-time setup, since GitHub generates it via an Action running on your own repo, not a hotlinked service. See the note below.
+
+<br/>
+
 ### ⚡ DSA Progress
 
 <div align="center">
@@ -139,9 +138,9 @@ notifications, and file uploads.
 </div>
 
 ```
-🟢  100+ problems solved across Arrays, Strings, Linked Lists,
-    Trees, Graphs, DP, Greedy, Backtracking & Binary Search
-🏆  Actively solving daily — consistency over intensity
+🟢  300+ problems solved — strongest in C++, active in DP,
+    Binary Search, Hash Tables & Two Pointers
+🏆  100-Day Badge 2026 — consistency over intensity
 ```
 
 <br/>
@@ -167,7 +166,7 @@ notifications, and file uploads.
 </div>
 
 <div align="center">
-<sub>If you're a fellow student building in public — let's connect and grow together. 🚀</sub>
+<sub>Building in public — let's connect and grow together. 🚀</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d9e75,100:0f6e56&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,50:1d9e75,100:0f6e56&height=100&section=footer" width="100%"/>
